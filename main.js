@@ -12,8 +12,8 @@ const fs = require('fs');
 
     $('table tbody tr').each((i, el) => {
       const currencyText = $(el).find('td div.visible-phone.print_hide').text().trim();
-      const currency = currencyText.split(' ')[0]; // 只取幣別代碼，例如 USD、JPY
-
+      const currencyZhTw = currencyText.split(' ')[0]; // 中文
+      const currency = currencyText.split(' ')[1].replace(/[^a-zA-Z]/g, '');
       const cashBuying = $(el).find('td[data-table="本行現金買入"].rate-content-cash').text().trim() || '-';
       const cashSelling = $(el).find('td[data-table="本行現金賣出"].rate-content-cash').text().trim() || '-';
       const sightBuying = $(el).find('td[data-table="本行即期買入"].rate-content-sight').text().trim() || '-';
@@ -22,6 +22,7 @@ const fs = require('fs');
       if (currency) {
         rates.push({
           currency,
+          currencyZhTw,
           cashBuying,
           cashSelling,
           sightBuying,
