@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-04",
+  "date": "2025-09-05",
   "rates": [
     {
       "currency": "USD",
       "currencyZhTw": "美金",
-      "cashBuying": "30.285",
-      "cashSelling": "30.955",
-      "sightBuying": "30.635",
-      "sightSelling": "30.735"
+      "cashBuying": "30.26",
+      "cashSelling": "30.93",
+      "sightBuying": "30.61",
+      "sightSelling": "30.71"
     },
     {
       "currency": "HKD",
       "currencyZhTw": "港幣",
-      "cashBuying": "3.778",
-      "cashSelling": "3.982",
-      "sightBuying": "3.904",
-      "sightSelling": "3.964"
+      "cashBuying": "3.774",
+      "cashSelling": "3.978",
+      "sightBuying": "3.9",
+      "sightSelling": "3.96"
     },
     {
       "currency": "GBP",
@@ -28,80 +28,80 @@
     {
       "currency": "AUD",
       "currencyZhTw": "澳幣",
-      "cashBuying": "19.68",
-      "cashSelling": "20.46",
-      "sightBuying": "19.97",
-      "sightSelling": "20.17"
+      "cashBuying": "19.62",
+      "cashSelling": "20.4",
+      "sightBuying": "19.91",
+      "sightSelling": "20.11"
     },
     {
       "currency": "CAD",
       "currencyZhTw": "加拿大幣",
-      "cashBuying": "21.74",
-      "cashSelling": "22.65",
-      "sightBuying": "22.14",
-      "sightSelling": "22.34"
+      "cashBuying": "21.7",
+      "cashSelling": "22.61",
+      "sightBuying": "22.1",
+      "sightSelling": "22.3"
     },
     {
       "currency": "SGD",
       "currencyZhTw": "新加坡幣",
-      "cashBuying": "23.24",
-      "cashSelling": "24.15",
-      "sightBuying": "23.73",
-      "sightSelling": "23.91"
+      "cashBuying": "23.22",
+      "cashSelling": "24.13",
+      "sightBuying": "23.71",
+      "sightSelling": "23.89"
     },
     {
       "currency": "CHF",
       "currencyZhTw": "瑞士法郎",
-      "cashBuying": "37.35",
-      "cashSelling": "38.55",
-      "sightBuying": "38.03",
-      "sightSelling": "38.28"
+      "cashBuying": "37.27",
+      "cashSelling": "38.47",
+      "sightBuying": "37.95",
+      "sightSelling": "38.2"
     },
     {
       "currency": "JPY",
       "currencyZhTw": "日圓",
-      "cashBuying": "0.1981",
-      "cashSelling": "0.2109",
-      "sightBuying": "0.2054",
-      "sightSelling": "0.2094"
+      "cashBuying": "0.1976",
+      "cashSelling": "0.2104",
+      "sightBuying": "0.2049",
+      "sightSelling": "0.2089"
     },
     {
       "currency": "ZAR",
       "currencyZhTw": "南非幣",
       "cashBuying": "-",
       "cashSelling": "-",
-      "sightBuying": "1.697",
-      "sightSelling": "1.777"
+      "sightBuying": "1.688",
+      "sightSelling": "1.768"
     },
     {
       "currency": "SEK",
       "currencyZhTw": "瑞典幣",
       "cashBuying": "-",
       "cashSelling": "-",
-      "sightBuying": "3.21",
-      "sightSelling": "3.31"
+      "sightBuying": "3.2",
+      "sightSelling": "3.3"
     },
     {
       "currency": "NZD",
       "currencyZhTw": "紐元",
-      "cashBuying": "17.58",
-      "cashSelling": "18.43",
-      "sightBuying": "17.96",
-      "sightSelling": "18.16"
+      "cashBuying": "17.49",
+      "cashSelling": "18.34",
+      "sightBuying": "17.87",
+      "sightSelling": "18.07"
     },
     {
       "currency": "THB",
       "currencyZhTw": "泰幣",
-      "cashBuying": "0.822",
-      "cashSelling": "1.012",
-      "sightBuying": "0.9354",
-      "sightSelling": "0.9754"
+      "cashBuying": "0.8218",
+      "cashSelling": "1.0118",
+      "sightBuying": "0.9352",
+      "sightSelling": "0.9752"
     },
     {
       "currency": "PHP",
       "currencyZhTw": "菲國比索",
-      "cashBuying": "0.4702",
-      "cashSelling": "0.6022",
+      "cashBuying": "0.4705",
+      "cashSelling": "0.6025",
       "sightBuying": "-",
       "sightSelling": "-"
     },
@@ -116,16 +116,16 @@
     {
       "currency": "EUR",
       "currencyZhTw": "歐元",
-      "cashBuying": "34.96",
-      "cashSelling": "36.3",
-      "sightBuying": "35.58",
-      "sightSelling": "35.98"
+      "cashBuying": "34.95",
+      "cashSelling": "36.29",
+      "sightBuying": "35.57",
+      "sightSelling": "35.97"
     },
     {
       "currency": "KRW",
       "currencyZhTw": "韓元",
-      "cashBuying": "0.02032",
-      "cashSelling": "0.02422",
+      "cashBuying": "0.02028",
+      "cashSelling": "0.02418",
       "sightBuying": "-",
       "sightSelling": "-"
     },
@@ -140,18 +140,18 @@
     {
       "currency": "MYR",
       "currencyZhTw": "馬來幣",
-      "cashBuying": "6.239",
-      "cashSelling": "7.764",
+      "cashBuying": "6.231",
+      "cashSelling": "7.756",
       "sightBuying": "-",
       "sightSelling": "-"
     },
     {
       "currency": "CNY",
       "currencyZhTw": "人民幣",
-      "cashBuying": "4.2",
-      "cashSelling": "4.362",
-      "sightBuying": "4.272",
-      "sightSelling": "4.322"
+      "cashBuying": "4.198",
+      "cashSelling": "4.36",
+      "sightBuying": "4.27",
+      "sightSelling": "4.32"
     }
   ]
 }
