@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-18",
+  "date": "2025-10-19",
   "rates": [
     {
       "currency": "USD",
@@ -20,58 +20,58 @@
     {
       "currency": "GBP",
       "currencyZhTw": "英鎊",
-      "cashBuying": "40.01",
-      "cashSelling": "42.13",
-      "sightBuying": "40.905",
-      "sightSelling": "41.535"
+      "cashBuying": "39.97",
+      "cashSelling": "42.09",
+      "sightBuying": "40.865",
+      "sightSelling": "41.495"
     },
     {
       "currency": "AUD",
       "currencyZhTw": "澳幣",
-      "cashBuying": "19.54",
-      "cashSelling": "20.32",
-      "sightBuying": "19.755",
-      "sightSelling": "20.1"
+      "cashBuying": "19.53",
+      "cashSelling": "20.31",
+      "sightBuying": "19.745",
+      "sightSelling": "20.09"
     },
     {
       "currency": "CAD",
       "currencyZhTw": "加拿大幣",
-      "cashBuying": "21.37",
-      "cashSelling": "22.28",
-      "sightBuying": "21.7",
-      "sightSelling": "22.03"
+      "cashBuying": "21.38",
+      "cashSelling": "22.29",
+      "sightBuying": "21.71",
+      "sightSelling": "22.04"
     },
     {
       "currency": "SGD",
       "currencyZhTw": "新加坡幣",
-      "cashBuying": "23.11",
-      "cashSelling": "24.02",
-      "sightBuying": "23.58",
-      "sightSelling": "23.8"
+      "cashBuying": "23.09",
+      "cashSelling": "24",
+      "sightBuying": "23.56",
+      "sightSelling": "23.78"
     },
     {
       "currency": "CHF",
       "currencyZhTw": "瑞士法郎",
-      "cashBuying": "38.01",
-      "cashSelling": "39.21",
-      "sightBuying": "38.62",
-      "sightSelling": "39.01"
+      "cashBuying": "37.85",
+      "cashSelling": "39.05",
+      "sightBuying": "38.46",
+      "sightSelling": "38.85"
     },
     {
       "currency": "JPY",
       "currencyZhTw": "日圓",
-      "cashBuying": "0.1946",
-      "cashSelling": "0.2074",
-      "sightBuying": "0.2014",
-      "sightSelling": "0.2064"
+      "cashBuying": "0.1944",
+      "cashSelling": "0.2072",
+      "sightBuying": "0.2012",
+      "sightSelling": "0.2062"
     },
     {
       "currency": "ZAR",
       "currencyZhTw": "南非幣",
       "cashBuying": "-",
       "cashSelling": "-",
-      "sightBuying": "1.716",
-      "sightSelling": "1.806"
+      "sightBuying": "1.721",
+      "sightSelling": "1.811"
     },
     {
       "currency": "SEK",
@@ -92,16 +92,16 @@
     {
       "currency": "THB",
       "currencyZhTw": "泰幣",
-      "cashBuying": "0.8094",
-      "cashSelling": "0.9994",
-      "sightBuying": "0.9198",
-      "sightSelling": "0.9658"
+      "cashBuying": "0.8077",
+      "cashSelling": "0.9977",
+      "sightBuying": "0.9181",
+      "sightSelling": "0.9641"
     },
     {
       "currency": "PHP",
       "currencyZhTw": "菲國比索",
-      "cashBuying": "0.461",
-      "cashSelling": "0.593",
+      "cashBuying": "0.4613",
+      "cashSelling": "0.5933",
       "sightBuying": "-",
       "sightSelling": "-"
     },
@@ -116,16 +116,16 @@
     {
       "currency": "EUR",
       "currencyZhTw": "歐元",
-      "cashBuying": "35.05",
-      "cashSelling": "36.39",
-      "sightBuying": "35.565",
-      "sightSelling": "36.165"
+      "cashBuying": "34.91",
+      "cashSelling": "36.25",
+      "sightBuying": "35.425",
+      "sightSelling": "36.025"
     },
     {
       "currency": "KRW",
       "currencyZhTw": "韓元",
-      "cashBuying": "0.01982",
-      "cashSelling": "0.02372",
+      "cashBuying": "0.01983",
+      "cashSelling": "0.02373",
       "sightBuying": "-",
       "sightSelling": "-"
     },
@@ -140,18 +140,18 @@
     {
       "currency": "MYR",
       "currencyZhTw": "馬來幣",
-      "cashBuying": "6.225",
-      "cashSelling": "7.75",
+      "cashBuying": "6.228",
+      "cashSelling": "7.753",
       "sightBuying": "-",
       "sightSelling": "-"
     },
     {
       "currency": "CNY",
       "currencyZhTw": "人民幣",
-      "cashBuying": "4.205",
-      "cashSelling": "4.367",
-      "sightBuying": "4.272",
-      "sightSelling": "4.332"
+      "cashBuying": "4.206",
+      "cashSelling": "4.368",
+      "sightBuying": "4.273",
+      "sightSelling": "4.333"
     }
   ]
 }
