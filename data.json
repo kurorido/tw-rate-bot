@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-31",
+  "date": "2026-02-01",
   "rates": [
     {
       "currency": "USD",
@@ -36,10 +36,10 @@
     {
       "currency": "CAD",
       "currencyZhTw": "加拿大幣",
-      "cashBuying": "22.61",
-      "cashSelling": "23.52",
-      "sightBuying": "22.94",
-      "sightSelling": "23.27"
+      "cashBuying": "22.62",
+      "cashSelling": "23.53",
+      "sightBuying": "22.95",
+      "sightSelling": "23.28"
     },
     {
       "currency": "SGD",
@@ -52,10 +52,10 @@
     {
       "currency": "CHF",
       "currencyZhTw": "瑞士法郎",
-      "cashBuying": "39.89",
-      "cashSelling": "41.09",
-      "sightBuying": "40.5",
-      "sightSelling": "40.89"
+      "cashBuying": "39.88",
+      "cashSelling": "41.08",
+      "sightBuying": "40.49",
+      "sightSelling": "40.88"
     },
     {
       "currency": "JPY",
@@ -70,8 +70,8 @@
       "currencyZhTw": "南非幣",
       "cashBuying": "-",
       "cashSelling": "-",
-      "sightBuying": "1.904",
-      "sightSelling": "1.994"
+      "sightBuying": "1.905",
+      "sightSelling": "1.995"
     },
     {
       "currency": "SEK",
@@ -92,10 +92,10 @@
     {
       "currency": "THB",
       "currencyZhTw": "泰幣",
-      "cashBuying": "0.8682",
-      "cashSelling": "1.0582",
-      "sightBuying": "0.9786",
-      "sightSelling": "1.0246"
+      "cashBuying": "0.8681",
+      "cashSelling": "1.0581",
+      "sightBuying": "0.9785",
+      "sightSelling": "1.0245"
     },
     {
       "currency": "PHP",
@@ -124,8 +124,8 @@
     {
       "currency": "KRW",
       "currencyZhTw": "韓元",
-      "cashBuying": "0.01996",
-      "cashSelling": "0.02386",
+      "cashBuying": "0.01995",
+      "cashSelling": "0.02385",
       "sightBuying": "-",
       "sightSelling": "-"
     },
@@ -148,10 +148,10 @@
     {
       "currency": "CNY",
       "currencyZhTw": "人民幣",
-      "cashBuying": "4.424",
-      "cashSelling": "4.586",
-      "sightBuying": "4.491",
-      "sightSelling": "4.551"
+      "cashBuying": "4.426",
+      "cashSelling": "4.588",
+      "sightBuying": "4.493",
+      "sightSelling": "4.553"
     }
   ]
 }
